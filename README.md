@@ -13,9 +13,15 @@ This repository serves as a central hub for bug reporting of the product.
    - Steps to reproduce the bug
    - Expected behavior vs Actual behavior
    - Screenshots or videos (if possible)
+4. Add appropriate label:
+   - `Bug`: For technical issues and malfunctions
+   - `Request For Change UI`: For UI-related changes and improvements
 
 ### Bug Resolution Process
 
-1. Relevant team members review reported bugs
-2. After discussion in the issue, create and link derived issues in related repositories
-3. Issues are closed progressively after resolution
+1. Create an initial issue in this main repository
+2. Through discussion in the issue, identify the bug location and assign responsible team members
+3. Create derivative issues in relevant repositories and link them to the main issue
+   - This ensures all stakeholders can track the issue's progress in the main repository
+   - Prevents visibility issues that would occur if issues were directly created in individual repositories
+4. Issues are closed progressively after resolution
