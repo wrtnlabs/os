@@ -23,9 +23,10 @@ labels: Bug
 <!-- A clear and concise description of what actually happened -->
 
 ## 💻 Environment
+
+- Stage: dev / prod
 - OS:
 - Browser:
-- Version:
 
 ## 📸 Screenshots
 <!-- If applicable, add screenshots to help explain your problem -->
