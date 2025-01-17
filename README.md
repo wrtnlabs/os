@@ -16,7 +16,10 @@ This repository serves as a central hub for bug reporting of the product.
 4. Add appropriate label:
    - `Bug`: For technical issues and malfunctions
    - `Request For Change UI`: For UI-related changes and improvements
-
+5. Add Project  
+   If this error is about current sprint, you can assgin current sprint  
+   of course, you should add proejct `Ecosystem 2.0`  
+   
 ### Bug Resolution Process
 
 1. Create an initial issue in this main repository
