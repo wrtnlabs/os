@@ -43,3 +43,28 @@ This repository serves as a central hub for bug reporting of the product.
    Only this, Even first-timers can easily participate in the context.
 
 3. If target issue not contains current sprint, you can omit sprint property
+
+## How to manage Open Source?
+
+To what extent should we open our resources? How much private documentation should we reveal in public-facing materials?  
+
+This section aims to provide guidelines and answer questions, such as whether comments must exclusively be written in English.
+
+### How Much Should Be Open?  
+
+For service-related code, make everything public.  
+
+However, to prevent token leaks, it's recommended to thoroughly check the `git log` using tools like [Gitleaks](https://github.com/gitleaks/gitleaks) before uploading the code.  
+
+If running such checks feels cumbersome, you may simplify the process by squashing the git log before uploading.  
+
+### Can I Attach Internal Documents Like Slack or Figma to Issues or PRs?  
+
+For text-based content like Slack messages that can be scraped, summarize and reformat them before attaching.  
+
+For link-based formats like Figma files, feel free to attach the links directly.  
+
+**FAQ**  
+
+**Q.** Should we include project progress updates as well?  
+**A.** Why not? The
