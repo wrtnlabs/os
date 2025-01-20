@@ -2,6 +2,10 @@
 
 This repository serves as a central hub for bug reporting of the product.
 
+1. [Product Bug Reports](#-bug-reports)
+2. [How to manage Issue](#how-to-manage-issue)
+
+   
 ## 🐞 Bug Reports
 
 ### How to Report a Bug
@@ -28,3 +32,14 @@ This repository serves as a central hub for bug reporting of the product.
    - This ensures all stakeholders can track the issue's progress in the main repository
    - Prevents visibility issues that would occur if issues were directly created in individual repositories
 4. Issues are closed progressively after resolution
+
+## How to manage Issue
+
+1. All the issue should regist Github Project
+   - **required** : `start_date`, `end_date` (if not started issue, you can omit this)
+   - **required** : when `project` can be specified, you should regist `project` for task tracking
+  
+2. All the meatadata about progress and exception should record target issue  
+   Only this, Even first-timers can easily participate in the context.
+
+3. If target issue not contains current sprint, you can omit sprint property
